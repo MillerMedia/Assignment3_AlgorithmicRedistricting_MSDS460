@@ -1,7 +1,7 @@
 [
     [
-        "P1_001N", #total population race -not required
-        "P1_002N", #white only election -not required
+        "P1_001N",
+        "P1_002N",
         "NAME",
         "state",
         "county"
