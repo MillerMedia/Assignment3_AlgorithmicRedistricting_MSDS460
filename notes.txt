@@ -1,0 +1,3 @@
+Note that counties currently (in 2020) are sometimes split between districts. I don't believe we should do that for the constraints of this assignment.
+
+URL used: https://api.census.gov/data/2020/dec/pl?get=NAME,P1_001N&for=county%20(or%20part):*&in=state:18%20congressional%20district:01,02,03,04,05,06,07,08,09
