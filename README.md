@@ -4,7 +4,7 @@
 This project attempts to optimize Indiana's congressional districts using linear programming while maintaining county boundaries intact. The goal was to create nine balanced districts while keeping counties whole and ensuring district contiguity.
 
 ## Data Sources
-- Population data: Census 2020 API (Indiana congressional district data)
+- Population data: Census 2020 API (Indiana congressional district data). Direct link to Indiana district data can be found [here](https://api.census.gov/data/2020/dec/pl?get=NAME,P1_001N&for=county%20(or%20part):*&in=state:18%20congressional%20district:01,02,03,04,05,06,07,08,09)
 - County adjacency data: U.S. Census Bureau (county_adjacency2023.txt)
 - County location data: county_location_data.csv for visualization
 
